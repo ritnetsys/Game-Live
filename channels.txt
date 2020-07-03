@@ -1,32 +1,27 @@
 
-Primary Server	rtmp://4506ff.entrypoint.cloud.wowza.com/app-b5d6
-Host Port	1935
-Stream Name	97474815
-Disable Authentication	No
-Source Username	client56960
-Source Password	
-••••••••  
-6a3d81a3
-
-
-
-Primary Server	rtmp://bc1f5b.entrypoint.cloud.wowza.com/app-a97c
-Host Port	1935
-Stream Name	75fde681
-Disable Authentication	No
-Source Username	client56960
-Source Password	
-••••••••  
-8265bde8
+Primary Server: rtmp://4506ff.entrypoint.cloud.wowza.com/app-b5d6
+Host Port: 1935
+Stream Name: 97474815
+Source Username: client56960
+Source Password: 6a3d81a3
+HLS: https://cdn3.wowza.com/1/N0szM0hmeXRpdHJn/K280T2Nl/hls/live/playlist.m3u8
 
 
 
 
-Primary Server	rtmp://07bbc8.entrypoint.cloud.wowza.com/app-4345
-Host Port	1935
-Stream Name	c4aefb65
-Disable Authentication	No
-Source Username	client56960
-Source Password	
-••••••••  
-74cc3e96
+Primary Server: rtmp://bc1f5b.entrypoint.cloud.wowza.com/app-a97c
+Host Port: 1935
+Stream Name: 75fde681
+Source Username: client56960
+Source Password: 8265bde8
+HLS: https://cdn3.wowza.com/1/eEk3Y3FFUHFVZHhE/QVFFSVZE/hls/live/playlist.m3u8
+
+
+
+
+Primary Server: rtmp://07bbc8.entrypoint.cloud.wowza.com/app-4345
+Host Port: 1935
+Stream Name: c4aefb65
+Source Username: client56960
+Source Password: 74cc3e96
+HLS: https://cdn3.wowza.com/1/ODF2Qnc2YU10STFZ/SENKdzB4/hls/live/playlist.m3u8
