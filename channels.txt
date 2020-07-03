@@ -1,0 +1,32 @@
+
+Primary Server	rtmp://4506ff.entrypoint.cloud.wowza.com/app-b5d6
+Host Port	1935
+Stream Name	97474815
+Disable Authentication	No
+Source Username	client56960
+Source Password	
+••••••••  
+6a3d81a3
+
+
+
+Primary Server	rtmp://bc1f5b.entrypoint.cloud.wowza.com/app-a97c
+Host Port	1935
+Stream Name	75fde681
+Disable Authentication	No
+Source Username	client56960
+Source Password	
+••••••••  
+8265bde8
+
+
+
+
+Primary Server	rtmp://07bbc8.entrypoint.cloud.wowza.com/app-4345
+Host Port	1935
+Stream Name	c4aefb65
+Disable Authentication	No
+Source Username	client56960
+Source Password	
+••••••••  
+74cc3e96
